@@ -1,0 +1,8 @@
+.principal {
+  background: linear-gradient(to bottom, rgb(75, 72, 72), white);
+}
+
+h1,
+h2 {
+  color: whitesmoke;
+}
